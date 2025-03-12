@@ -36,7 +36,7 @@ function ModelViewer() {
 				setLoading(true);
 
 				// Fetch from our API endpoint
-				const apiUrl = "https://react-three-api.onrender.com/models";
+				const apiUrl = "https://react-three-api.onrender.com/model";
 
 				// Create URL for the model
 				// Using direct URL instead of fetching the binary and creating blob
